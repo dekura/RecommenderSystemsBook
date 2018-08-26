@@ -1,0 +1,2 @@
+# RecommenderSystemsBook
+notes about recommenderSystems
